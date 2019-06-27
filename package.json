@@ -1,0 +1,20 @@
+{
+  "name": "myfirstnodeapi",
+  "version": "1.0.0",
+  "description": "just playing with node to create apis",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "api",
+    "rest",
+    "node"
+  ],
+  "author": "Andi FB",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Champa123/NodeApi"
+  }
+}
